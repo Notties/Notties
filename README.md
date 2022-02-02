@@ -3,7 +3,7 @@
 - 👨‍🎓 I’m studying Computer Science at Huachiew Chalermprakiet University 🎓
 - 🌱 I’m currently learning Front-End, Back-End, DevOps & everything 🤣
 - 👯 I’m looking to collaborate on with other content creators
-- ⚡ Fun fact: I love to draw and play game
+- ⚡ Fun fact: I love to drawing and play anygame
 
 ##
 
