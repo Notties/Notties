@@ -1,9 +1,7 @@
 ### Hi, I’m Knot 
 
-- 👨‍🎓 I’m studying Computer Science at Huachiew Chalermprakiet University 🎓
-- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything 🤣
-- 👯 I’m looking to collaborate on with other content creators
-- ⚡ Fun fact: I love to drawing and play anygame
+- 👨‍🎓 I’m studying Computer science at Huachiew Chalermprakiet University 🎓
+- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything
 
 ##
 
