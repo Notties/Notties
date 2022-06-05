@@ -2,8 +2,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notties&label=Profile%20views&color=0e75b6&style=flat" alt="notties" /> </p>
 
-- 👨‍🎓 I’m studying Computer science at Huachiew Chalermprakiet University 🎓
-- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything
+<p align="center">- 👨‍🎓 I’m studying Computer science at Huachiew Chalermprakiet University 🎓</p>
+<p align="center">- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything</p>
 
 
 <h3 align="center">Connect with me</h3>
