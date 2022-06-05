@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Knot</h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=notties&label=Profile%20views&color=0e75b6&style=flat" alt="notties" /> </p>
+
 - 👨‍🎓 I’m studying Computer science at Huachiew Chalermprakiet University 🎓
 - 🌱 I’m currently learning Front-End, Back-End, DevOps & everything
 
@@ -102,4 +104,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notties&show_icons=true&locale=en" alt="notties" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=notties&label=Profile%20views&color=0e75b6&style=flat" alt="notties" /> </p>
+
