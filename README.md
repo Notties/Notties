@@ -6,14 +6,14 @@
 <p align="center">- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything</p>
 
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://discord.gg/6CW9uW3J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mamypoko666#5799" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h3>
 
-<h4 align="center">Programming Languages</h4>
+<h3 align="center">Programming Languages</h4>
 <table align="center">
   <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "45px" height = "45px" alt="Java"></td>
@@ -30,7 +30,7 @@
   </tr>
 <table>
 
-<h4 align="center">Frontend Development</h4>
+<h3 align="center">Frontend Development</h4>
 <table align="center">
   <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width = "45px" height = "45px" alt="HTML"></td>
@@ -49,7 +49,7 @@
   </tr>
 <table>
 
-<h4 align="center">Backend Development</h4>
+<h3 align="center">Backend Development</h4>
 <table align="center">
   <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "45px" height = "45px" alt="Node.js"></td>
@@ -62,7 +62,7 @@
   </tr>
 <table>
 
-<h4 align="center">Database</h4>
+<h3 align="center">Database</h4>
 <table align="center">
   <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width = "45px" height = "45px" alt="MySQL"></td>
@@ -74,7 +74,7 @@
   </tr>
 <table>
 
-<h4 align="center">Backend as a Service(BaaS)</h4>
+<h3 align="center">Backend as a Service(BaaS)</h4>
 <table align="center">
   <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width = "45px" height = "45px" alt="Firebase"></td>
@@ -87,7 +87,7 @@
   </tr>
 <table>
 
-<h4 align="center">Game engine</h4>
+<h3 align="center">Game engine</h4>
 <table align="center">
   <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width = "45px" height = "45px" alt="Unity"></td>
