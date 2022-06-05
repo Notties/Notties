@@ -14,91 +14,28 @@
 <h2 align="center">Skills</h3>
 
 <h3 align="center">Programming Languages</h4>
-<table align="center">
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "45px" height = "45px" alt="Java"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "45px" height = "45px" alt="Javascript"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "45px" height = "45px" alt="C"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "45px" height = "45px" alt="PHP"></td>
-  </tr>
-
-  <tr>
-  <td align="center"><p>Java</p></td>
-  <td align="center"><p>Javascript</p></td>
-  <td align="center"><p>C</p></td>
-  <td align="center"><p>PHP</p></td>
-  </tr>
-<table>
+  
+<p align="center"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" />  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" /> <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="" /> <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="" /></p>
 
 <h3 align="center">Frontend Development</h4>
-<table align="center">
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width = "45px" height = "45px" alt="HTML"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width = "45px" height = "45px" alt="CSS"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "45px" height = "45px" alt="React"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width = "45px" height = "45px" alt="Bootstrap"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "45px" height = "45px" alt="Figma"></td>
-  </tr>
 
-  <tr>
-  <td align="center"><p>HTML</p></td>
-  <td align="center"><p>CSS</p></td>
-  <td align="center"><p>React</p></td>
-  <td align="center"><p>Bootstrap</p></td>
-  <td align="center"><p>Figma</p></td>
-  </tr>
-<table>
+<p align="center"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" />  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" /> <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" /> <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="" />  <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="" /></p>
 
 <h3 align="center">Backend Development</h4>
-<table align="center">
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "45px" height = "45px" alt="Node.js"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width = "45px" height = "45px" alt="Express"></td>
-  </tr>
 
-  <tr>
-  <td align="center"><p>Node.js</p></td>
-  <td align="center"><p>Express</p></td>
-  </tr>
-<table>
+<p align="center"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="" />  <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="" /> </p>
 
 <h3 align="center">Database</h4>
-<table align="center">
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width = "45px" height = "45px" alt="MySQL"></td>
-  
-  </tr>
 
-  <tr>
-  <td align="center"><p>MySQL</p></td>
-  </tr>
-<table>
+<p align="center"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="" /> </p>
 
 <h3 align="center">Backend as a Service(BaaS)</h4>
-<table align="center">
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width = "45px" height = "45px" alt="Firebase"></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width = "45px" height = "45px" alt="Heroku"></td>
-  </tr>
 
-  <tr>
-  <td align="center"><p>Firebase</p></td>
-  <td align="center"><p>Heroku</p></td>
-  </tr>
-<table>
+<p align="center"><img align="center" src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase" alt="" />  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" /> </p>
 
 <h3 align="center">Game engine</h4>
-<table align="center">
-  <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width = "45px" height = "45px" alt="Unity"></td>
-  
-  </tr>
 
-  <tr>
-  <td align="center"><p>Unity</p></td>
-  </tr>
-<table>
-
+<p align="center"><img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notties&show_icons=true&locale=en&layout=compact" alt="notties" /></p>
 
