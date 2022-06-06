@@ -41,9 +41,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Game Engine
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
 ## Github Stats
 <p align="left">
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=notties&show_icons=true&locale=en&layout=compact" alt="notties" />
