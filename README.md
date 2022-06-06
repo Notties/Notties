@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Knot</h1>
+<h1 align="left">Hi there👋, I'm Knot</h1>
 
 <p align="left">- 👨‍🎓 I’m studying Computer science at Huachiew Chalermprakiet University 🎓</p>
-<p align="left">- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything</p>
+<p align="left">- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything 🤣</p>
 
 ## Connect with me
 <a href="https://discord.gg/6CW9uW3J" target="blank"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Mamypoko666#5799"  /></a>
@@ -49,7 +49,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## Github stats
+## Github Stats
 
 
 <p align="left">
