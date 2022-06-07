@@ -3,6 +3,9 @@
 <p align="left">- 👨‍🎓 I’m studying Computer science at Huachiew Chalermprakiet University 🎓</p>
 <p align="left">- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything 🤣</p>
 
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Notties&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=19323C&stroke=19323C&ring=19323C&fire=F2545B&currStreakLabel=F2545B&sideNums=19323C)](https://git.io/streak-stats)
+
 ## Connect with me
 <a href="https://discord.gg/6CW9uW3J" target="blank"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Mamypoko666#5799"  /></a>
 
@@ -39,11 +42,3 @@
 ## Backend as a Service(BaaS)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-## Github Stats
-<p align="left">
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=notties&show_icons=true&locale=en&layout=compact" alt="notties" />
-</p>
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=notties&show_icons=true&locale=en" alt="notties" /></p>
-
-
