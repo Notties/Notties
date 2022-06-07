@@ -1,7 +1,7 @@
-<h1 align="left">Hi there👋, I'm Knot</h1>
+# Hi there👋, I'm Knot
 
-<p align="left">- 👨‍🎓 I’m studying Computer science at Huachiew Chalermprakiet University 🎓</p>
-<p align="left">- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything 🤣</p>
+- 👨‍🎓 I’m studying Computer science at Huachiew chalermprakiet university 🎓</p>
+- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything 🤣</p>
 
 ## Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Notties&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=19323C&stroke=19323C&ring=19323C&fire=F2545B&currStreakLabel=F2545B&sideNums=19323C)](https://git.io/streak-stats)
@@ -16,7 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ## Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -42,3 +41,10 @@
 ## Backend as a Service(BaaS)
 ![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+<!-- 
+
+Github-Streak: https://github-readme-streak-stats.herokuapp.com/demo/ 
+Dev-icons: https://shields.io/
+
+-->
