@@ -7,7 +7,7 @@
 <img src="https://discord.c99.nl/widget/theme-1/674982630357205007.png">
 
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Notties&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=19323C&stroke=19323C&ring=19323C&fire=F2545B&currStreakLabel=F2545B&sideNums=19323C)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Notties&theme=react&date_format=n%2Fj%5B%2FY%5D&fire=FFFFFF)](https://git.io/streak-stats)
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
