@@ -1,7 +1,7 @@
-# Hi there👋, I'm Knot
+# Hi there👋, I'm Knot 
 
-- 👨‍🎓 I’m studying Computer science at Huachiew chalermprakiet university 🎓</p>
-- 🌱 I’m currently learning Front-End, Back-End, DevOps & everything 🤣</p>
+- 👨‍🎓 I’m studying Computer science at Huachiew chalermprakiet university 🎓
+- 🌱 I’m currently learning Frontend, Backend, DevOps & everything 🤪
 
 ## Discord Status
 <img src="https://discord.c99.nl/widget/theme-1/674982630357205007.png">
