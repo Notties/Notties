@@ -6,9 +6,6 @@
 ## Discord Status
 <img src="https://discord.c99.nl/widget/theme-1/674982630357205007.png">
 
-## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Notties&theme=react&date_format=n%2Fj%5B%2FY%5D&fire=FFFFFF)](https://git.io/streak-stats)
-
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -22,11 +19,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!-- 
-Github-Streak: https://github-readme-streak-stats.herokuapp.com/demo/ 
+😋
+Github-Stats: https://github.com/anuraghazra/github-readme-stats
 Dev-icons: https://shields.io/
 Discord Status Banner: https://discord.c99.nl/
 -->
