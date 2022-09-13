@@ -1,9 +1,11 @@
 # Hi there👋, I'm Knot 
 
+<pre>
 - 👨‍🎓 I’m studying Computer science at Huachiew chalermprakiet university 🎓
 - 🌱 I’m currently learning Frontend, Backend, DevOps & everything 🤪
+</pre>
 
-<details><summary><strong>Tech Stack</strong></summary>
+<details open><summary><strong>Tech Stack</strong></summary>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -16,17 +18,18 @@
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </details>
 
 <details><summary><strong>Stats</strong></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Bootstrap">
+<img src="https://github-readme-stats.vercel.app/api?username=Notties&show_icons=true&theme=tokyonight" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="stats">
 </details>
 
-## Discord Status
+<details><summary><strong>Discord Status</strong></summary>
 <img src="https://discord.c99.nl/widget/theme-1/674982630357205007.png">
+</details>
 
 <!-- 
 😋
