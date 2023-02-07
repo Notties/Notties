@@ -1,7 +1,7 @@
 # Hi there👋, I'm Knot 
 
 <pre>
-- 👨‍🎓 I’m studying Computer science at Huachiew chalermprakiet university 🎓
+- 👨‍🎓 I’m studying Computer science at University 🎓
 - 🌱 I’m currently learning Frontend, Backend, DevOps & everything 🤪
 </pre>
 <!-- 
