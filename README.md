@@ -2,7 +2,7 @@
 
 <pre>
 - 👨‍🎓 I’m studying Computer science at University 🎓
-- 🌱 I’m currently learning Frontend, Backend, DevOps & everything 🤪
+- 🌱 I’m currently learning Frontend, Backend & everything 🤪
 </pre>
 <!-- 
 <details open><summary><strong>Tech stacks</strong></summary>
