@@ -7,7 +7,7 @@
 
 <details><summary><strong>Stats</strong></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Notties&show_icons=true&theme=tokyonight" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notties&layout=compact&theme=tokyonight" alt="stats">
 </details>
 
 <details>
