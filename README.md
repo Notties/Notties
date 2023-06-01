@@ -22,6 +22,5 @@
 source - readme.md
 Typing SVG https://readme-typing-svg.demolab.com/demo/
 Github-Stats: https://github.com/anuraghazra/github-readme-stats
-Bagges: https://readme-typing-svg.demolab.com/demo/
 Discord Status Banner: https://discord.c99.nl/
 -->
