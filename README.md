@@ -1,8 +1,8 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Knot 
 
 <pre>
-  - 👨‍🎓 I’m studying Computer science at University 🎓
-  - 🌱 I’m currently learning Frontend, Backend & everything 🤪
+  - 👨‍🎓 I’m fresh graduated computer science from university. 🎓
+  - 🌱 I’m currently learning frontend, backend & everything 🤪
 </pre>
 
 <details><summary><strong>Stats</strong></summary>
