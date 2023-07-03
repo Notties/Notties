@@ -5,20 +5,6 @@
 </pre>
 
 ## My experience stacks
-<details open>
-  <summary>
-    <strong>
-      Target learning
-    </strong>
-  </summary>
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" alt="GO">
-<!--   <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"> -->
-</div>
-</details>
-
 <details>
   <summary>
     <strong>
