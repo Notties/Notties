@@ -3,7 +3,7 @@
 <pre>
   - 🌱 I’m currently learning everything 😋
 </pre>
-
+<!--
 ## My experience stacks
 <details>
   <summary>
@@ -32,6 +32,7 @@
   </p>
 </div>
 </details>
+-->
 
 ## Other
 <details><summary><strong>GitHub Stats</strong></summary>
