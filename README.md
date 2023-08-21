@@ -11,12 +11,11 @@
       Programming language
     </strong>
   </summary>
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,java,python,dart" />
+    </a>
+  </p>
 </details>
 
 <details>
@@ -26,17 +25,14 @@
     </strong>
   </summary>
 <div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
-  <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white" alt="Nest">
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,next,nest,fastapi" />
+    </a>
+  </p>
 </div>
 </details>
 
-  
 ## Other
 <details><summary><strong>GitHub Stats</strong></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Notties&show_icons=true&theme=tokyonight" alt="stats">
@@ -51,9 +47,10 @@
   <img src="https://discord.c99.nl/widget/theme-1/674982630357205007.png">
 </details>
 
-<!-- 
-source - readme.md
-Typing SVG https://readme-typing-svg.demolab.com/demo/
+
+<!-- source - readme.md
+Typing SVG: https://readme-typing-svg.demolab.com/demo/
+Skill-icons: https://github.com/tandpfun/skill-icons
 Github-Stats: https://github.com/anuraghazra/github-readme-stats
 Discord Status Banner: https://discord.c99.nl/
 -->
