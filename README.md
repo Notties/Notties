@@ -1,8 +1,9 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Knot 
-
+<!--
 <pre>
   - 🌱 I’m currently learning everything 😋
 </pre>
+-->
 <!--
 ## My experience stacks
 <details>
@@ -35,7 +36,7 @@
 -->
 
 ## Other
-<details><summary><strong>GitHub Stats</strong></summary>
+<details open><summary><strong>GitHub Stats</strong></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Notties&show_icons=true&theme=tokyonight" alt="stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notties&layout=compact&theme=tokyonight" alt="stats">
 </details>
